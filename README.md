@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JISHANALIKHAN
+- 👀 I’m 🧩 Solving mathematical mysteries, especially in algebra 
+- 🌱 I’m currently learning 🐍 Python exploring the world of coding
+- 🤖 Embracing logic puzzles and venturing into new realms of knowledge
+-  📚 9th grader on a journey of programming discovery | ✨ Join me as I unravel the wonders of code and problem-solving!
